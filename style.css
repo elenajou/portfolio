@@ -401,7 +401,8 @@ article .icon {
 
 /* Projects Section */
 #projects {
-    position: relative
+    position: relative;
+    height: min-content;
 }
 
 .color-container {
@@ -411,8 +412,9 @@ article .icon {
 
 .project-img {
     border-radius: 2rem;
-    width: 90%;
     height: 100%;
+    max-width: 90%;
+    max-height: 590px;
 }
 
 .project-title {
@@ -449,7 +451,7 @@ article .icon {
     display: flex;
     justify-content: center;
     flex-direction: column;
-    height: 70vh;
+    height: min-content;
     margin-top: 2rem;
 }
 
