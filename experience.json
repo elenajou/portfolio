@@ -6,12 +6,14 @@
             {"icon": "https://img.icons8.com/ios/50/java-coffee-cup-logo--v1.png", "text": "Java"},
             {"icon": "./assets/checkmark.png", "text": "C#"},
             {"icon": "https://img.icons8.com/ios-filled/50/c-plus-plus-logo.png", "text": "HTML/CSS"},
-            {"icon": "https://img.icons8.com/parakeet-line/48/sql.png", "text": "SQL"}
+            {"icon": "https://img.icons8.com/parakeet-line/48/sql.png", "text": "SQL"},
+            {"icon": "https://img.icons8.com/ios-filled/50/python.png", "text": "Python"}
         ]},{
         "title": "Frameworks",
         "skills": [
             {"icon": "./assets/checkmark.png", "text": "ExpressJS"},
-            {"icon": "https://img.icons8.com/external-tanah-basah-glyph-tanah-basah/48/external-react-social-media-tanah-basah-glyph-tanah-basah.png", "text": "React"}
+            {"icon": "https://img.icons8.com/external-tanah-basah-glyph-tanah-basah/48/external-react-social-media-tanah-basah-glyph-tanah-basah.png", "text": "React"},
+            {"icon": "https://img.icons8.com/external-tal-revivo-bold-tal-revivo/24/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-bold-tal-revivo.png", "text": "Django"}
         ]},{
         "title": "Developer Tools",
         "skills": [
@@ -23,18 +25,31 @@
             {"icon": "https://img.icons8.com/material/24/mysql-logo.png", "text": "SQL Server"},
             {"icon": "./assets/tortoisesvn.svg", "text": "TortoiseSVN"}
         ]}],
-    "internships": [{
+    "relevant-experience": [{
         "company": "Tidalis",
         "image-src": "./assets/tidalis.jpg",
-        "title": "Software Developer Co-op",
+        "title": "Software Engineer",
         "start": "May 2024",
         "end": "Present",
         "skills": ["C#", "SQL", "TortoiseSVN"],
         "experience": [
-            "Collaborated with developers to build a system that currently processes over $7 billion in port revenue.",
-            "Developed software solutions tailored to the specifications of various high-traffic port workflows",
-            "Improved development efficiency by writing scripts to automatically generate large datasets for testing within seconds, optimizing a process that usually took over 20 minutes per case.",
-            "Designed and programmed over 40 fee configuration items compliant with customer requirements and maritime regulations, responsible for complex billing calculations and validations."
+            "Collaborated on the development of a $7 billion annual revenue system, utilizing C# for project configuration and contributing to system documentation.",
+            "Developed software solutions tailored to the specifications of various high-traffic port workflows.",            
+            "Drove deployment efficiency by creating SQL scripts to facilitate change requests for customers.",
+            "Designed and programmed over 40 fee configuration items responsible for complex billing calculations and validations."
+        ]
+    }, {
+        "company": "Unbox",
+        "image-src": "./assets/unbox.png",
+        "title": "Freelance Software Engineer",
+        "start": "May 2025",
+        "end": "Present",
+        "skills": ["Django", "Python", "Git", "Github", "React", "NodeJS"],
+        "experience": [
+            "Led full-stack development of a Progressive Web App (PWA) and Admin Portal leveraging React, Node, and Django for a Panamanian logistics client.",
+            "Directed a team of 5 developers through the full SDLC using Agile; managed requirements, delivery, and deployment architecture (AWS Amplify, Render, NeonDB) as primary client liaison through Jira.",
+            "Designed high-fidelity UI/UX mockups and interactive flows using Figma, translating specs into responsive, cross-platform web interfaces (React) with PWA installation support.",
+            "Engineered and deployed a dynamic invoice and payments system with CRUD operations"
         ]
     }],
     "projects": [{
@@ -78,6 +93,20 @@
             "Designed and built intuitive, interactive components and interfaces.",
             "Created a robust database schema, alongside a layer of authentication, for storing lists and recipes."
     ]}],
+    "volunteering": [{
+        "company": "BCIT Student Association",
+        "image-src": "./assets/bcitsa.png",
+        "title": "Chair, Downtown Campus",
+        "start": "July 2025",
+        "end": "Present",
+        "url-caption": "bcitsa.ca/leadership",
+        "url": "https://www.bcitsa.ca/leadership/executives/",
+        "experience": [
+            "I served as a executive chair for a satellite campus of almost 900 students. My role involved capturing direct student feedback and implementing campus-wide initiatives designed to improve student life.",
+            "My role extended to active participation in student policy approvals and the voting process, providing essential direct support and provide resource navigation to the student body."
+        ]
+    }
+    ],
     "work-experience": [
         {
             "company": "Avidbots Corp.",
@@ -95,7 +124,7 @@
         },
         {
             "company": "Spectra Aluminum Products",
-            "image-src": "./assets/spectra.jpg",
+            "image-src": "./assets/spectra.png",
             "title": "Engineering Technician",
             "start": "July 2019",
             "end": "July 2021",
@@ -105,5 +134,30 @@
                 "Single-handedly implemented a FANUC robot cell that polishes materials while using pneumatic systems to sort aluminum products.",
                 "Lead the development of the new facility by delegating tasks to team members, supervising technicians’ work, creating engineering drawings for equipment fabrication, sourcing equipment, maximizing installation efficiency and managing project timelines."
             ]
-        }]
+        },{
+            "company": "Hacksmith Industries",
+            "image-src": "./assets/hacksmith.jpeg",
+            "title": "Engineering Intern",
+            "start": "Sep. 2018",
+            "end": "Dec. 2018",
+            "skills": ["SolidWorks", "CNC","Lathe", "Plasma Cutter"],
+            "experience": [
+                "Designed and built a working prototype of a freeze gun, a fictional weapon from an online game called Overwatch",
+                "Designed mock-up prototypes in Solidworks and AutoCAD before building the project concepts with Arduinos and standard electronic components",
+                "Worked with 3D printers, laser cutter, CNC machine, Lathe and Plasma Cutter to build the modeled designs"
+            ]
+        }, {
+            "company": "Erwin Hymer Group",
+            "image-src": "./assets/erwin.png",
+            "title": "Engineering Intern",
+            "start": "May. 2017",
+            "end": "Aug. 2017",
+            "skills": ["PTC Creo"],
+            "experience": [
+                "Used PTC Creo Parametric to 3D model a production quality trailer model",
+                "Translated engineering designs of a product into a structured 3D assembly system",
+                "Assisted design requirements by providing engineering drawings for manufacturing and further prototyping"
+            ]
+        }
+    ]
 }
