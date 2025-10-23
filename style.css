@@ -31,6 +31,7 @@ a, .btn {
 /* Desktop */
 nav, .nav-links {
     display: flex;
+    font-family:'Courier New', Courier, monospace;
 }
 
 nav {
@@ -54,7 +55,7 @@ a {
 a:hover {
     color: grey;
     text-decoration: underline;
-    text-underline-offset: 1rem;
+    text-underline-offset: 0.5rem;
     text-decoration-color: rbg(181,181,181);
 }
 
@@ -199,7 +200,7 @@ section {
 .section__text__p1 {
     text-align: center;
     font-size: 1.5rem;
-    margin-bottom: 1.5rem;
+    margin-bottom: 0.5rem;
 }
 
 .section__text__p2 {
@@ -239,13 +240,13 @@ section {
 .btn-container {
     display: flex;
     justify-content: center;
-    gap: 1rem;
+    gap: 0.5rem;
 }
 
 .btn {
     font-weight: 600;
     transition: all 300ms ease;
-    padding: 1rem;
+    padding: 0.5rem;
     width: 8rem;
     border-radius: 2rem;
 }
@@ -334,6 +335,7 @@ section {
 
 .text-container {
     text-align: center;
+    margin-bottom: 1rem;
 }
 
 /* Experience Section */
@@ -447,6 +449,13 @@ article .icon {
     margin-bottom: 12px;
 }
 
+.volunteering-description {
+    font-family: "Montserrat", sans-serif;
+    font-size: 15px;
+    max-width: 800px;
+    justify-self: center;
+}
+
 .volunteering-url {
     color: blue;
 }
@@ -468,6 +477,8 @@ article .icon {
     flex-direction: row;
     gap: 1rem;
     padding: 1rem;
+    font-family: "Montserrat", sans-serif;
+    font-size: 15px;
 }
 
 .experience-list li{
@@ -508,13 +519,14 @@ article .icon {
 .contact-info-upper-container {
     display: flex;
     justify-content: center;
-    border-radius: 2rem;
+    border-radius: 0.75rem;
     border: #35353580 0.1rem solid;
     border-color: #a3a3a376;
     background: rgb(250,250,250);
-    margin: 2rem auto;
-    padding: 0.5rem;
+    margin: 0.5rem auto;
+    padding: 0rem 0.25rem 0rem 0.25rem;
     height: min-content;
+    max-width: 300px;
 }
 
 .contact-info-container {
@@ -522,7 +534,7 @@ article .icon {
     align-items: center;
     justify-content: center;
     gap: 0.5rem;
-    margin: 1rem;
+    margin: 0.25rem;
 }
 
 .contact-info-container p {
