@@ -79,20 +79,7 @@
             "Created an engaging, tactile experience by maintaining dynamically updated state on user input.",
             "Utilized GitHub Pages for deployment and hosting for ease of access."
 
-        ]}, {
-        "name": "GrocerEase",
-        "type": "academic",
-        "image-src": "./assets/all-recipes.JPG",
-        "github": "https://github.com/elenajou/1800_202330_BBY02",
-        "demo": "https://bby02-grocerease.web.app",
-        "start": "Sep. 2023",
-        "end": "Oct. 2023",
-        "skills": ["HTML","CSS","NodeJS","Firebase","Javascript"],
-        "experience": [
-            "Developed an application that auto generates a grocery list based on the users’ favorite recipes.",
-            "Designed and built intuitive, interactive components and interfaces.",
-            "Created a robust database schema, alongside a layer of authentication, for storing lists and recipes."
-    ]}],
+        ]}],
     "volunteering": [{
         "company": "BCIT Student Association",
         "image-src": "./assets/bcitsa.png",
