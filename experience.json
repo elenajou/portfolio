@@ -28,7 +28,7 @@
     "relevant-experience": [{
         "company": "Tidalis",
         "image-src": "./assets/tidalis.jpg",
-        "title": "Software Engineer",
+        "title": "Software Engineer (Part Time)",
         "start": "May 2024",
         "end": "Present",
         "skills": ["C#", "SQL", "TortoiseSVN"],
@@ -41,7 +41,7 @@
     }, {
         "company": "Unbox",
         "image-src": "./assets/unbox.png",
-        "title": "Freelance Software Engineer",
+        "title": "Software Engineer (Contract)",
         "start": "May 2025",
         "end": "Present",
         "skills": ["Django", "Python", "Git", "Github", "React", "NodeJS"],
