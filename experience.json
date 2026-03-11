@@ -35,9 +35,10 @@
         "skills": ["C#", "SQL", "TortoiseSVN"],
         "experience": [
             "Collaborated on the development of a $7 billion annual revenue system, utilizing C# for project configuration and contributing to system documentation.",
-            "Developed software solutions tailored to the specifications of various high-traffic port workflows.",            
-            "Drove deployment efficiency by creating SQL scripts to facilitate change requests for customers.",
-            "Designed and programmed over 40 fee configuration items responsible for complex billing calculations and validations."
+            "Developed software solutions tailored to the specifications of various high-traffic port workflows.",
+            "Resolved critical legacy issues by debugging product upgrades and version conflicts using Visual Studio, ensuring seamless transitions and backward compatibility for diverse customer environments.",
+            "Optimized change requests with SQL scripts, reducing operational downtime for customers during deployment.",
+            "Programmed over 40 fee configuration items, translating customer specifications and maritime nuances into precise billing calculations and automated validations."
         ]
     }, {
         "company": "Unbox",
@@ -48,10 +49,10 @@
         "end": "Present",
         "skills": ["Django", "Python", "Git", "Github", "React", "NodeJS"],
         "experience": [
-            "Led full-stack development of a Progressive Web App (PWA) and Admin Portal leveraging React, Node, and Django for a Panamanian logistics client with 13k clients.",
-            "Directed a team of 5 developers through the full SDLC using Agile; managed requirements, delivery, and deployment architecture (AWS Amplify, Render, NeonDB) as primary client liaison using Jira.",
-            "Designed high-fidelity UI/UX mockups and interactive flows using Figma, translating specs into responsive, cross-platform web interfaces (React) with PWA installation support.",
-            "Engineered and deployed a dynamic invoice and payments system with CRUD operations that serves 1k invoices and payments per day."
+            "Led the full-stack development of a high-traffic customer PWA and admin portal for a Panamanian logistics firm, ensuring system stability for a 13,000+ customer base and optimizing cross-platform installation support.",
+            "Managed a team of 5 developers through the full SDLC, using version control and Agile methodologies; streamlined project workflow by leading daily stand-ups, sprint planning, and code reviews.",
+            "Engineered automated CI/CD pipelines via GitHub Actions for multi-environment deployments, ensuring secure, consistent delivery between development, testing, and production.",
+            "Managed the production deployment of a dynamic invoicing engine handling 1,000+ daily CRUD transactions, maintaining data integrity for high-volume invoice and payment processing."
         ]
     }],
     "projects": [{
@@ -67,21 +68,8 @@
             "Developed an interactive mobile invite system that served over 70 customized Spanish invitations.",
             "Created modular, elegant and interactive UI components.",
             "Implemented Firestore to extract guest information and trigger custom behaviors (to view an example use +1(647)704-2430 as input)."
-        ]}, {
-        "name": "Typing Turtle",
-        "type": "personal",
-        "image-src": "./assets/typingturtle.JPG",
-        "github": "https://github.com/elenajou/typing-turtle",
-        "demo": "https://elenajou.github.io/typing-turtle",
-        "start": "Feb. 2024",
-        "end": "",
-        "skills": ["React","JSX","GitHub Pages"],
-        "experience": [
-            "Built a dynamic web application for typing practice, with a focus on seamless interactivity.",
-            "Created an engaging, tactile experience by maintaining dynamically updated state on user input.",
-            "Utilized GitHub Pages for deployment and hosting for ease of access."
-
-        ]}],
+        ]}
+    ],
     "volunteering": [{
         "company": "BCIT Student Association",
         "image-src": "./assets/bcitsa.png",
