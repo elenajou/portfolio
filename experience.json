@@ -26,7 +26,7 @@
             {"icon": "./assets/tortoisesvn.svg", "text": "TortoiseSVN"}
         ]}],
     "relevant-experience": [{
-        "company": "Tidalis",
+        "company": "Tidalis Americas Ltd.",
         "image-src": "./assets/tidalis.jpg",
         "link": "",
         "title": "Software Developer",
@@ -34,11 +34,11 @@
         "end": "Present",
         "skills": ["C#", "SQL", "TortoiseSVN"],
         "experience": [
-            "Collaborated on the development of a $7 billion annual revenue system, utilizing C# for project configuration and contributing to system documentation.",
-            "Developed software solutions tailored to the specifications of various high-traffic port workflows.",
-            "Resolved critical legacy issues by debugging product upgrades and version conflicts using Visual Studio, ensuring seamless transitions and backward compatibility for diverse customer environments.",
-            "Optimized change requests with SQL scripts, reducing operational downtime for customers during deployment.",
-            "Programmed over 40 fee configuration items, translating customer specifications and maritime nuances into precise billing calculations and automated validations."
+            "Investigated and resolved production issues for a maritime software handling $7B in annual revenue, using Visual Studio to identify and fix legacy runtime errors.",
+            "Demonstrated a strong understanding of enterprise architecture by engineering custom C# configurations and SQL scripts to meet customer requirements.",
+            "Troubleshooted and validated multiple product releases, ensuring successful deployments and maintaining system integrity across various versions.",
+            "Automated manual change requests with SQL scripting, reducing operational downtime from 1 hour to 10 minutes and mitigating technical risks during production releases.",
+            "Translated complex maritime regulations and customer specifications into 50+ custom C# fee configurations and optimized 100+ existing modules, ensuring precise billing logic and automated data validation."
         ]
     }, {
         "company": "Unbox",
@@ -49,10 +49,10 @@
         "end": "Present",
         "skills": ["Django", "Python", "Git", "Github", "React", "NodeJS"],
         "experience": [
-            "Led the full-stack development of a high-traffic customer PWA and admin portal for a Panamanian logistics firm, ensuring system stability for a 13,000+ customer base and optimizing cross-platform installation support.",
-            "Managed a team of 5 developers through the full SDLC, using version control and Agile methodologies; streamlined project workflow by leading daily stand-ups, sprint planning, and code reviews.",
-            "Engineered automated CI/CD pipelines via GitHub Actions for multi-environment deployments, ensuring secure, consistent delivery between development, testing, and production.",
-            "Managed the production deployment of a dynamic invoicing engine handling 1,000+ daily CRUD transactions, maintaining data integrity for high-volume invoice and payment processing."
+            "Led the full-stack development of a PWA customer portal and admin dashboard for a logistics firm with 13k users, managing a team of 5 through Agile sprints, code reviews, and daily stand-ups.",
+            "Designed and integrated REST APIs to manage complex data flows, ensuring the technical architecture supported 1,000+ daily CRUD transactions and maintaining data integrity for invoice and payment processing.",
+            "Leveraged AWS (Cloud Computing specialization) and Django to manage scalable production deployments, ensuring the long-term stability and performance of the invoicing engine.",
+            "Spearheaded the definition and implementation of functional requirements and technical contracts with the client, ensuring the architectural design aligned with business goals."
         ]
     }],
     "projects": [{
@@ -92,7 +92,6 @@
             "end": "Nov 2022",
             "skills": [""],
             "experience": [
-                "Assisted the support team by troubleshooting hardware and software malfunctions on active robots at different facilities.",
                 "Provided troubleshooting assistance to the tech support team on live robots at different customer facilities including diagnosing hardware malfunctions and software errors.",
                 "Improved tech support diagnosing processes by updating python scripts used to read robot bag files.",
                 "Created web forms in Salesforce for third parties using Apex classes and HTML."
