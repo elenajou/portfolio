@@ -58,6 +58,20 @@
     "projects": [{
         "name": "Mobile Wedding E-invite",
         "type": "personal",
+        "image-src": "./assets/riceli.png",
+        "github": "https://github.com/elenajou/ricardoyelisa",
+        "demo": "https://ricardo-y-elisa--ricardo-y-elisa.us-east4.hosted.app/prototype",
+        "start": "May 2026",
+        "end": "June 2026",
+        "skills": ["Next.js","Tailwind","Firebase","TypeScript"],
+        "experience": [
+            "Developed an interactive mobile invite system that served over 70 customized Spanish invitations.",
+            "Created modular, elegant and interactive UI components.",
+            "Implemented Supabase and an admin portal to edit guest information and trigger custom behaviors."
+        ]},
+        {
+        "name": "Mobile Wedding E-invite",
+        "type": "personal",
         "image-src": "./assets/IsaYPuy.JPG",
         "github": "https://github.com/elenajou/isaypuy",
         "demo": "https://isaypuy.web.app",
