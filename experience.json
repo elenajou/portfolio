@@ -56,22 +56,40 @@
         ]
     }],
     "projects": [{
-        "name": "Mobile Wedding E-invite",
+        "name": "Auto Parts SaaS",
         "type": "personal",
+        "display": "web",
+        "image-src": "./assets/lagranmuralla.png",
+        "github": "https://github.com/elenajou/lagranmuralla",
+        "demo": "",
+        "start": "Apr. 2025",
+        "end": "Present",
+        "skills": ["Next.js 14", "TypeScript", "Tailwind", "Supabase", "Render"],
+        "experience": [
+            "Full-stack multi-branch auto parts SaaS built from scratch — RBAC, real-time notifications, and PDF generation.",
+            "Supabase Postgres schema with RLS, column-level cost price control via views, and Realtime presence.",
+            "5 Render cron jobs (low-stock alerts, sales reports, commissions) with execution history and management UI.",
+            "15+ modules sharing a consistent inline panel + DataTable architecture."
+        ]},
+        {
+        "name": "Ricardo & Elisa Wedding E-Invite",
+        "type": "personal",
+        "display": "mobile",
         "image-src": "./assets/riceli.png",
         "github": "https://github.com/elenajou/ricardoyelisa",
         "demo": "https://ricardo-y-elisa--ricardo-y-elisa.us-east4.hosted.app/prototype",
         "start": "May 2026",
         "end": "June 2026",
-        "skills": ["Next.js","Tailwind","Firebase","TypeScript"],
+        "skills": ["Next.js 16", "TypeScript", "Supabase", "Firebase"],
         "experience": [
-            "Developed an interactive mobile invite system that served over 70 customized Spanish invitations.",
-            "Created modular, elegant and interactive UI components.",
-            "Implemented Supabase and an admin portal to edit guest information and trigger custom behaviors."
+            "Multilingual (EN/ES/ZH) wedding invite app for 70+ personalized invitations with per-guest custom behaviors.",
+            "Built a modular component system, envelope flip/reveal, scroll-triggered FadeIn, multi-locale language switcher, and collapsible FAQ accordion.",
+            "Supabase backend + admin portal for guest management, RSVP tracking, and dynamic content."
         ]},
         {
-        "name": "Mobile Wedding E-invite",
+        "name": "Isabel & Puy Wedding E-Invite",
         "type": "personal",
+        "display": "mobile",
         "image-src": "./assets/IsaYPuy.JPG",
         "github": "https://github.com/elenajou/isaypuy",
         "demo": "https://isaypuy.web.app",
